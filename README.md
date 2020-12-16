@@ -1,4 +1,4 @@
-Oold fashion toy
+Old fashion toy
 ----------------
 A vintage stuff made by three.js
 
